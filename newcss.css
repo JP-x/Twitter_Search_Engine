@@ -1,0 +1,57 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 25, 2015, 3:08:05 PM
+    Author     : JP
+*/
+#page-container { 
+    font-family: "Arial Black", Gadget, sans-serif;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: #FFFFFF
+}
+
+form    {
+    margin:auto;
+    position:relative;
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: 14px;
+    font-style: italic;
+    font-weight: bold;
+    color: #FFFFFF;
+    text-decoration: none;
+    padding:10px;
+}
+
+body {
+    color:#fff;
+    font-family: "Arial Black", Gadget, sans-serif;
+}
+
+input    {
+    border: 1px solid #999;
+    height: 25px;
+}
+
+input.button {
+    right:20px;
+    bottom:20px;
+    color:#fff;
+    font-family: "Arial Black", Gadget, sans-serif;
+    height:30px;
+}
+input.button:hover {
+    background:#fff;
+    color:#0FF;
+}
+
+
+#container {    margin:0 auto;    width: 50%;		text-align: center;}
+#contents {    width: 100%;	text-align: left;}	
+#results_area {margin-top: 30px;}
+#form {margin-top: 30px;}
